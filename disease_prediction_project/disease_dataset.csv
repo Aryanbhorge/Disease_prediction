@@ -1,0 +1,11 @@
+disease,symptoms,precautions
+Common Cold,"fever,cough,runny nose,headache,sore throat","Drink warm fluids, rest, steam inhalation"
+Dengue,"fever,body pain,joint pain,fatigue,headache","Drink ORS, avoid painkillers, consult doctor"
+Malaria,"fever,shivering,sweating,body pain","Take antipyretics, avoid mosquito bites"
+Typhoid,"fever,stomach pain,weakness,headache,fatigue","Drink boiled water, soft diet, consult physician"
+COVID-19,"fever,cough,breathing problem,fatigue,body pain","Home isolation, mask, consult doctor"
+Migraine,"headache,nausea,vomiting,sensitivity to light","Rest in dark room, avoid loud noise"
+Anemia,"fatigue,weakness,dizziness,headache","Increase iron rich diet, medical test"
+Viral Infection,"fever,fatigue,body pain,headache,cough","Rest, hydration, paracetamol if needed"
+Flu,"fever,cough,sore throat,body pain","Run humidifier, warm liquids, rest"
+Food Poisoning,"stomach pain,vomiting,diarrhea,weakness","ORS, hydration, avoid outside food"
